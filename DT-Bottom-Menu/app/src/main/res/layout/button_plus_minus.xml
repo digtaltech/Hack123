@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@color/button_pm_stroke"
+        app:layout_constraintBottom_toBottomOf="@+id/pmText"
+        app:layout_constraintEnd_toStartOf="@+id/pmButtonPlus"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/pmButtomMinus" />
+
+    <View
+        android:id="@+id/view4"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@color/button_pm_stroke"
+        app:layout_constraintEnd_toStartOf="@+id/pmButtonPlus"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/pmButtomMinus"
+        app:layout_constraintTop_toTopOf="@+id/pmText" />
+
+    <Button
+        android:id="@+id/pmButtonPlus"
+        style="@style/ButtonPlus"
+        android:layout_width="35dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:text="+ "
+        android:textColor="@color/text_pm"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/pmText"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/pmButtomMinus"
+        style="@style/ButtonMinus"
+        android:layout_width="35dp"
+        android:layout_height="30dp"
+        android:text=" —"
+        android:textColor="@color/text_pm"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/pmText"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:text="1"
+        android:textColor="@color/text_pm"
+        app:layout_constraintStart_toEndOf="@+id/pmButtomMinus"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

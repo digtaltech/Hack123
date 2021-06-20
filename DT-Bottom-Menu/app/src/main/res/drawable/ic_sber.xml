@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="133dp"
+    android:height="142dp"
+    android:viewportWidth="133"
+    android:viewportHeight="142">
+  <path
+      android:pathData="M118.71,26.859C121.834,30.882 124.437,35.293 126.65,39.964L66.514,84.211L41.262,68.381V49.436L66.384,65.137L118.71,26.859Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M15.62,67.083C15.62,66.175 15.62,65.396 15.75,64.488L0.521,63.709C0.521,64.747 0.391,65.915 0.391,66.953C0.391,85.119 7.81,101.598 19.785,113.535L30.589,102.765C21.347,93.683 15.62,81.096 15.62,67.083Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M66.384,16.479C67.295,16.479 68.076,16.479 68.987,16.608L69.768,1.427C68.727,1.427 67.555,1.298 66.514,1.298C48.291,1.298 31.76,8.694 19.785,20.631L30.589,31.4C39.7,22.188 52.456,16.479 66.384,16.479Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M66.384,117.687C65.473,117.687 64.692,117.687 63.781,117.557L63,132.739C64.041,132.739 65.213,132.868 66.254,132.868C84.477,132.868 101.008,125.472 112.983,113.535L102.179,102.765C93.068,112.108 80.442,117.687 66.384,117.687Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M95.02,25.302L107.906,15.83C96.582,6.747 82.134,1.168 66.384,1.168V16.349C77.058,16.479 86.95,19.723 95.02,25.302Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M132.508,67.083C132.508,63.061 132.117,59.168 131.466,55.275L117.278,65.785C117.278,66.175 117.278,66.694 117.278,67.083C117.278,82.005 110.77,95.369 100.487,104.582L110.77,115.871C124.047,103.933 132.508,86.416 132.508,67.083Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M66.384,117.687C51.415,117.687 38.008,111.2 28.766,100.949L17.442,111.2C29.547,124.564 46.989,132.868 66.384,132.868V117.687Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+  <path
+      android:pathData="M32.411,29.584L22.128,18.295C8.721,30.362 0.391,47.75 0.391,67.083H15.62C15.62,52.291 22.128,38.797 32.411,29.584Z"
+      android:fillColor="@color/three_item_activ_icon"/>
+</vector>

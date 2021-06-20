@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DT Tour Kras</string>
+
+    <!-- List Cart -->
+    <string name="three_item_"></string>
+
+    <!-- Cart -->
+
+    <string name="three_item_name">Корзина</string>
+    <string name="three_item_promo">Промокод</string>
+    <string name="three_item_enter_promo">Ввести промокод</string>
+    <string name="three_item_result">Итого без доставки</string>
+    <string name="three_item_button">Оформить заказ</string>
+    <string name="three_item_else">или</string>
+    <string name="three_item_button_text"><u>Вы можете оформить регулярную подписку на товары в корзине</u></string>
+
+    <string name="three_item_thx_thx">Спасибо !</string>
+    <string name="three_item_thx_true_offer">Ваш заказ успешно оформлен. мы свяжемся с вами в ближайшее время.</string>
+    <string name="three_item_thx_offer">Ваш заказ</string>
+    <string name="three_item_thx_qq">А вы знали что ?</string>
+    <string name="three_item_thx_ans">Вы можете оформить подписку на этот товар, чтобы получать необходимое количество товара ежемесячно удобным вам способом</string>
+    <string name="three_item_thx_button">Хочу попробовать</string>
+</resources>
+    <!-- <string name=""></string> -->

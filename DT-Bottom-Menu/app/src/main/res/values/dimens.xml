@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="bottom_icon_padding">24dp</dimen>
+    <dimen name="corner_radius">15dp</dimen>
+    <dimen name="corner_radius_bottom">25dp</dimen>
+    <dimen name="text_corner">5dp</dimen>
+    <dimen name="text_dark">16sp</dimen>
+    <dimen name="text_light">14sp</dimen>
+</resources>
